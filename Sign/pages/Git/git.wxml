@@ -1,0 +1,2 @@
+<!--pages/Git/git.wxml-->
+<text class='git'>此项目由Git进行版本控制，方便联合开发及版本回顾。</text>

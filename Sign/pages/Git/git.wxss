@@ -1,0 +1,6 @@
+/* pages/Git/git.wxss */
+.git{
+  text-align: center;
+  color: red;
+  margin: 0px
+}
