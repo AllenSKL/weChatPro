@@ -1,0 +1,5 @@
+/* pages/index/navigate.wxss */
+.nav{
+  text-align:center;
+  color:#F00;
+}

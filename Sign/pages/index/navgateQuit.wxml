@@ -1,0 +1,5 @@
+<!--pages/index/navgateQuit.wxml-->
+<view class="navQ">
+<text>签退成功</text>
+</view>
+

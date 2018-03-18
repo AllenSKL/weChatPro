@@ -1,0 +1,5 @@
+<!--pages/index/navigate.wxml-->
+<view class="nav">
+  <text>签到成功</text>
+</view>
+
